@@ -14,7 +14,7 @@
     "iconUrl": "https://reactiongame-three.vercel.app/icon.png",
     "splashImageUrl": "https://reactiongame-three.vercel.app/icon.png",
     "splashBackgroundColor": "#0052ff",
-    "subtitle": "Tap when the screen turns green",
+    "subtitle": "Tap when it turns green",
     "description": "A fast and simple reaction speed test mini-app.",
     "tagline": "Test your reaction time",
     "heroImageUrl": "https://reactiongame-three.vercel.app/icon.png",
