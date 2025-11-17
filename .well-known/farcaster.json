@@ -12,7 +12,7 @@
     "name": "Reaction Test",
     "homeUrl": "https://reactiongame-three.vercel.app/",
     "iconUrl": "https://reactiongame-three.vercel.app/icon.png",
-    "primaryCategory": "tools",
-    "tags": ["demo"]
+    "primaryCategory": "games",
+    "tags": ["reaction", "game", "demo"]
   }
 }
