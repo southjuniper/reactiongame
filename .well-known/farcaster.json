@@ -8,24 +8,26 @@
     "ownerAddress": "0x7688582b861c4F753583069BcAB8061DE7FAE4531"
   },
  "miniapp": {
-    "version": "1",
-    "name": "Reaction Test",
-    "homeUrl": "https://reactiongame-three.vercel.app/",
-    "iconUrl": "https://reactiongame-three.vercel.app/icon.png",
-    "splashImageUrl": "https://reactiongame-three.vercel.app/icon.png",
-    "splashBackgroundColor": "#0052ff",
-    "subtitle": "Tap when it turns green",
-    "description": "A fast and simple reaction speed test mini-app.",
-    "tagline": "Test your reaction time",
-    "heroImageUrl": "https://reactiongame-three.vercel.app/icon.png",
-    "ogTitle": "Reaction Test",
-    "ogDescription": "Tap when it turns green. How fast are you?",
-    "ogImageUrl": "https://reactiongame-three.vercel.app/icon.png",
-    "primaryCategory": "games",
-    "tags": ["reaction", "game"],
-    "imageUrl": "https://reactiongame-three.vercel.app/preview.png",
-    "screenshotUrls": [
-      "https://reactiongame-three.vercel.app/preview.png"
-    ]
-  }
+  "version": "1",
+  "name": "Reaction Test",
+  "homeUrl": "https://reactiongame-three.vercel.app/",
+  "iconUrl": "https://reactiongame-three.vercel.app/icon.png",
+
+  "imageUrl": "https://reactiongame-three.vercel.app/preview.png",
+  "heroImageUrl": "https://reactiongame-three.vercel.app/preview.png",
+  "ogImageUrl": "https://reactiongame-three.vercel.app/preview.png",
+  "screenshotUrls": [
+    "https://reactiongame-three.vercel.app/preview.png"
+  ],
+
+  "splashImageUrl": "https://reactiongame-three.vercel.app/icon.png",
+  "splashBackgroundColor": "#0052ff",
+
+  "subtitle": "Tap when it turns green",
+  "description": "A fast and simple reaction speed test mini-app.",
+  "tagline": "Test your reaction time",
+
+  "primaryCategory": "games",
+  "tags": ["reaction", "game"]
+}
 }
