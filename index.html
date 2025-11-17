@@ -23,5 +23,19 @@
   </div>
 
   <script src="game.js"></script>
+  <!-- Mini App SDK: вызывает ready(), чтобы скрыть сплэш в Farcaster/Base -->
+  <script type="module">
+    import { sdk } from 'https://esm.sh/@farcaster/miniapp-sdk';
+
+    window.addEventListener('load', async () => {
+      try {
+        await sdk.actions.ready();
+        console.log('Mini app ready called');
+      } catch (err) {
+        // В обычном браузере SDK может не инициироваться – это нормально
+        console.log('sdk.actions.ready() failed (probably not running inside Farcaster/Base):', err);
+      }
+    });
+  </script>
 </body>
 </html>
