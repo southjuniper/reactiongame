@@ -1,1 +1,18 @@
-
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "baseBuilder": {
+    "ownerAddress": "0x7688582b861c4F753583069BcAB8061DE7FAE4531"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "Reaction Test",
+    "homeUrl": "https://reactiongame-three.vercel.app/",
+    "iconUrl": "https://reactiongame-three.vercel.app/icon.png",
+    "primaryCategory": "tools",
+    "tags": ["demo"]
+  }
+}
