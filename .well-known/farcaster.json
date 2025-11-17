@@ -23,6 +23,7 @@
     "ogImageUrl": "https://reactiongame-three.vercel.app/icon.png",
     "primaryCategory": "games",
     "tags": ["reaction", "game"],
+    "imageUrl": "https://reactiongame-three.vercel.app/preview.png",
     "heroImageUrl": "https://reactiongame-three.vercel.app/preview.png",
     "ogImageUrl": "https://reactiongame-three.vercel.app/preview.png",
     "screenshotUrls": [
